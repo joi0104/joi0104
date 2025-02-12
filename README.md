@@ -1,1 +1,7 @@
-### 안녕하세요. 웹 프론트엔드 개발자 최진영 입니다👋
+hello. This is joi, a frontend developer.
+
+I am currently working at **@Tosspayments** and developing various admin products.
+
+I am very interested in architecture, flexible software, and productivity.
+
+If you want to talk about various things, please contact me at any time.
