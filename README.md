@@ -1,6 +1,6 @@
 hello. This is joi, a frontend developer.
 
-I'm currently working at **@Tosspayments** and developing various admin products.
+I'm currently working at **@Cutback** and developing various admin products.
 
 I'm interested in architecture, flexible software, and productivity.
 
